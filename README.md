@@ -29,7 +29,7 @@
 
 ## 🧭 Executive Summary
 
-A regional financial institution was operating without visibility into its digital performance unable to measure channel ROI, understand customer behavior, or identify why online product inquiries were not converting. With over 970,000 annual website sessions and no structured reporting in place, significant revenue opportunity was being left on the table.
+A banking financial institution was operating without visibility into its digital performance unable to measure channel ROI, understand customer behavior, or identify why online product inquiries were not converting. With over 970,000 annual website sessions and no structured reporting in place, significant revenue opportunity was being left on the table.
 
 This engagement delivered a complete digital analytics solution, a multi-page Looker Studio dashboard and a data-backed 2026 strategy roadmap giving leadership the clarity needed to make informed marketing and UX investment decisions. Key findings included a critical GA4 tracking misconfiguration impacting paid media ROI visibility and a measurable form abandonment gap across 3 core product lines, both previously unknown to the business.
 
@@ -56,7 +56,6 @@ The client faced several interconnected challenges:
 |--------|------|
 | **Industry** | Financial Banking Services |
 | **Project Type** | Digital Analytics Audit & Strategy |
-| **My Role** | Multimedia & Digital Analytics Consultant |
 | **Timeline** | One Year: January 2025 to December 2025 |
 | **Deliverables** | GA4 Dashboards, Looker Studio Reports, Stakeholder Presentation Deck |
 | **Scope** | Traffic Acquisition · User Engagement · Campaign Performance · Conversion Funnel |
